@@ -1,0 +1,6 @@
+this is frm master branch
+to make conflict state
+232
+345
+bye :)
+
