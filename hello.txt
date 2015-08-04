@@ -1,4 +1,15 @@
+
  i m from master branch 
  plz check your file
  bye
+
+
+this is for conflict 
+hello txt file
+bye..meet a agian
+
+hi 
+i  am form whitespaces
+thanks
+ bye :)
 
