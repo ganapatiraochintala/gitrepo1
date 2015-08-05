@@ -13,7 +13,17 @@ i  am form whitespaces
 thanks
  bye :)
 
+<<<<<<< HEAD
 hi i m frm master 
 how r u 
 i hope u good!
 right!
+=======
+
+i m from white
+for knowing wat haappned in merge
+thanks:)
+
+i m frm white again
+thnks
+>>>>>>> white
