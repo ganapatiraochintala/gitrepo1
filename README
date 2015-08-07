@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 
 
 My Project 
 this is edited by user gan
+=======
+>>>>>>> rack-0.4
 = Rack, a modular Ruby webserver interface
 
 Rack provides a minimal, modular and adaptable interface for developing
@@ -289,4 +292,7 @@ Maveric:: <http://maveric.rubyforge.org/>
 
 Christian Neukirchen:: <http://chneukirchen.org/>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> rack-0.4
