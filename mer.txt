@@ -1,3 +1,4 @@
+
 hi
 this is for merging concept 
 naming mer.txt file frm master branch
@@ -8,3 +9,11 @@ i frm branch merge
 how r u 
 file for merge both lines
 thank you
+
+
+ HI
+ I M FRM MERGE BRANCH
+ I HAVE TO ADD SOME THING TO YOUR FILE MER.TXT
+ SO ADD ME AFTER YOUU LINES
+bye bey bey
+
